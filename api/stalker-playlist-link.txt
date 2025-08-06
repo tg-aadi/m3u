@@ -1,0 +1,64 @@
+# 🌐 Stream4K Global IPTV Playlist
+
+Welcome to the official repository for the [Stream4K Playlist](https://stream4k.tgaadi.workers.dev/playlist.m3u8) — a free worldwide IPTV `.m3u8` stream that includes a wide variety of live TV channels from across the globe.
+
+## 📺 What's Included?
+
+This playlist contains a wide selection of live TV channels across different languages and regions:
+
+- 🌍 African Channels  
+- 🇦🇫 Afghan Channels  
+- 🇮🇳 Indian Channels (Hindi, Tamil, Telugu, Malayalam, Punjabi, etc.)  
+- 🇫🇷 French Channels  
+- 🇬🇧 English Channels  
+- 🇵🇰 Urdu Channels  
+- 🇬🇷 Greek Channels  
+- 🇹🇷 Turkish Channels  
+- 🇪🇸 Spanish Channels  
+- 🇵🇹 Portuguese Channels  
+- ➕ And many more...
+
+> Note: This playlist is a conversion of [Stalker Portal](http://tv.stream4k.cc/stalker_portal/c/) and works **worldwide**, as long as you have a **stable internet connection**.
+
+---
+
+## 📥 How to Use
+
+### 1. Copy the Playlist URL
+https://stream4k.tgaadi.workers.dev/playlist.m3u
+
+### 2. Paste it into your IPTV Player
+
+Use any of the following IPTV-compatible apps:
+
+#### ✅ Recommended Players
+
+- **TiviMate**
+- **OTT Navigator**
+- **IPTV Smarters Pro**
+- **Network Stream Player**
+- **VLC Media Player** (cross-platform)
+
+---
+
+## 🔄 Updates
+
+The playlist is updated regularly. Just reload the URL in your IPTV app to get the latest channels.
+
+---
+
+## 📢 Need Help or Suggestions?
+
+📬 DM on Telegram: [@tg_aadi](https://t.me/tg_aadi)
+
+---
+
+## ❗ Disclaimer
+
+- This repository is for **educational purposes only**.  
+- All content is publicly available and we do **not host or stream** any media ourselves.  
+- Usage of this playlist is **at your own risk**. Always ensure you're complying with local laws and streaming regulations.
+
+---
+
+⭐️ If you find this useful, feel free to star this repo and share with others!
